@@ -1,3 +1,5 @@
+#fibbonacci genarator
+
 print("fibbonacci series")
 count=int(input('enter the number of terms '))
 i=1
